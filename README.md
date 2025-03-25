@@ -33,9 +33,9 @@ https://snack.expo.dev/@igorceola/maga03
 
 Decidi fazer uma loja de jogos aqui, já que é bem alinhado ao meu gosto. Utilizo React Navigation para realizar a transição entre as duas telas existentes. A listagem de produtos é bem parecida com a listagem de tarefas, da Tarefa 1. 
 
-##Tarefa 4: 
-
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+##Tarefa 4: 
 
 https://snack.expo.dev/@igorceola/maga04
 

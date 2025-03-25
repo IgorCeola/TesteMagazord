@@ -19,7 +19,7 @@ Nesta tarefa eu utilizei a API de https://home.openweathermap.org/ para buscar a
 
 Devo esclarecer algumas coisas:
 
-1 - A chave da api está fixa na constante API_KEY, e espero que o número de requisições permitidas para esta chave seja suficiente ao realizarem os testes, mas caso não seja possível, para criar uma nova chave, pode-se criar uma conta em https://home.openweathermap.org/(link) e após isso acessar as informações da conta, onde se pode criar uma nova chave.
+1 - A chave da api está fixa na constante API_KEY, e espero que o número de requisições permitidas para esta chave seja suficiente ao realizarem os testes, mas caso não seja possível, para criar uma nova chave, pode-se criar uma conta em https://home.openweathermap.org/ e após isso acessar as informações da conta, onde se pode criar uma nova chave.
 
 2 - No snack temos a opção de rodar a aplicação no navegador e também no próprio dispositivo móvel, lendo o qrcode exibido no Snack.expo.dev (é necessário ter o aplicativo Expo Go instalado no aparelho móvel em questão). O que ocorre é que a minha aplicação tem um pequeno erro de precisão na geolocalização quando é iniciada pela web, podendo mostrar uma cidade próxima, no lugar da atual. Neste caso, sugiro fortemente rodar a aplicação pelo aparelho móvel utilizando o qrcode, pois lá a geolocalização é feita corretamente.
 

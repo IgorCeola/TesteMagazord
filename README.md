@@ -17,7 +17,7 @@ A listagem de tarefas é bem simples, e ao clicar sobre uma delas, eu exibo uma 
 
 https://snack.expo.dev/@igorceola/maga02
 
-Nesta tarefa eu utilizei a API de https://home.openweathermap.org/ para buscar as informações de clima. Eu trago a temperatura, descrição do clima, nível de umidade e nome da cidade atual, tudo com base na geolocalização atual. Dependendo do clima registrado nos parâmetros da requisição, é mostrada um ícone diferente para melhor ilustração.  
+Nesta tarefa eu utilizei a API de https://home.openweathermap.org/ para buscar as informações de clima. Eu trago a temperatura, descrição do clima, nível de umidade e nome da cidade atual, tudo com base na geolocalização atual. Dependendo do clima registrado nos parâmetros da requisição, é mostrado um ícone diferente para melhor ilustração.  
 
 Devo esclarecer algumas coisas:
 

@@ -5,7 +5,7 @@ Cada um dos testes tem a finalidade de comprovar meu conhecimento em caracterís
 
 Por questões de garantir a compatibilidade e facilidade de execução e inspeção dos testes realizados, decidi utilizar a snack.expo.dev, que é a plataforma da Expo utilizada para desenvolver utilizando o expo no próprio navegador. 
 
-##Tarefa 1:
+## Tarefa 1:
 
 https://snack.expo.dev/@igorceola/maga01
 
@@ -13,7 +13,7 @@ A listagem de tarefas é bem simples, e ao clicar sobre uma delas, eu exibo uma 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-##Tarefa 2:
+## Tarefa 2:
 
 https://snack.expo.dev/@igorceola/maga02
 
@@ -27,7 +27,7 @@ Devo esclarecer algumas coisas:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-##Tarefa 3: 
+## Tarefa 3: 
 
 https://snack.expo.dev/@igorceola/maga03
 
@@ -35,7 +35,7 @@ Decidi fazer uma loja de jogos aqui, já que é bem alinhado ao meu gosto. Utili
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-##Tarefa 4: 
+## Tarefa 4: 
 
 https://snack.expo.dev/@igorceola/maga04
 
@@ -47,6 +47,6 @@ Além disto, adicionei um botão que exibe um menu lateral com animação, neste
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Considerações finais:
+## Considerações finais:
 
 Espero que tudo dê certo na execução das aplicações e deixo meus agradecimentos a vocês da Magazord!
